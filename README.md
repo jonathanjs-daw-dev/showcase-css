@@ -2,6 +2,8 @@
 
 **Diseño de Interfaces Web – 2º DAW (Online)**
 
+🌐 **Ver proyecto en vivo:** [https://jonathanjs-daw-dev.github.io/showcase-css/](https://jonathanjs-daw-dev.github.io/showcase-css/)
+
 **Fecha de entrega máxima:** 11/01/2026 a las 23:59
 
 ---
